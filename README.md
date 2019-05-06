@@ -1,2 +1,3 @@
 # ProjectSMS
-getInfo
+
+Ce projet est just pour tester.
